@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchcoke&show_icons=true&theme=radical)
 
-개발자를 꿈꾸는 이지원 입니다
+개발자를 꿈꾸는 이지원 입니다 <br>
 https://www.acmicpc.net/user/jiwon3583
