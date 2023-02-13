@@ -1,5 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hitch's github&fontSize=90"/>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hitchsgithub&fontSize=90" />	
+</div>
 <!--
 **hitchcoke/hitchcoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
