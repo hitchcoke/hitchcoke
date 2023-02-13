@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hitchsgithub&fontSize=90" />	
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchcoke&show_icons=true&theme=radical)
-
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchcoke)]
 개발자를 꿈꾸는 이지원입니다 <br>
 	https://hitchcoke.github.io/
 </div>
