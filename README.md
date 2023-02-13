@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hitchsgithub&fontSize=90" />	
 </div>
 
+<span align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchcoke&show_icons=true&theme=radical)
-
-<div>
+</span>
 개발자를 꿈꾸는 이지원 입니다 
-</div>
