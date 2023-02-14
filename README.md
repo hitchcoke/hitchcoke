@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hitchsgithub&fontSize=90" />	
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitchcoke&show_icons=true&theme=default)
-	<br>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitchcoke&langs_count=10&layout=compact)]()
 	
-	<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitchcoke&langs_count=10&layout=compact)]()
+	
+
 [![Solved.ac
-	프로필](http://mazassumnida.wtf/api/generate_badge?boj={jiwon3583})](https://solved.ac/{jiwon3583})
+	프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon3583)](https://solved.ac/jiwon3583)
 	
 개발자를 꿈꾸는 이지원입니다 <br>
 	https://hitchcoke.github.io/
