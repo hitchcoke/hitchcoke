@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 	
 개발자를 꿈꾸는 이지원입니다 <br>
 	
-https://hitchcoke.github.io/
+
 </div>
